@@ -44,7 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AnimationScripts.js" />
+     <Compile Include="Assets\Characters\AnimationScripts.js" />
      <Compile Include="Assets\Scripts\AdvancedAI.js" />
      <Compile Include="Assets\Scripts\AllSimple.js" />
      <Compile Include="Assets\Scripts\EnemyAI.js" />
@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\RespawnMenu.js" />
      <Compile Include="Assets\Scripts\SlenderCopyAI.js" />
      <Compile Include="Assets\Scripts\SlenderMovement.js" />
+     <None Include="Assets\Objects\Rocks\Stone_Pack_1_Obj\Stone_Pack_1.txt" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Pro Standard Assets\Image Based\SSAOShader.shader" />

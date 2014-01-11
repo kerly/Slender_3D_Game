@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{DFF23482-A222-25BB-97CC-5E9D6E8B8DE4}") = "Slender_3D_Game", "Assembly-CSharp-firstpass-vs.csproj", "{1AD9A435-BBDB-242E-96D8-B304A24B08D6}"
 EndProject
-Project("{DFF23482-A222-25BB-97CC-5E9D6E8B8DE4}") = "Slender_3D_Game", "Assembly-CSharp-vs.csproj", "{AE8A04BD-187F-2E29-11EE-9DDAB16B62A3}"
-EndProject
 Project("{DFF23482-A222-25BB-97CC-5E9D6E8B8DE4}") = "Slender_3D_Game", "Assembly-CSharp-Editor-vs.csproj", "{63822057-9227-EDF3-D1F2-F95E2B0944AE}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{1AD9A435-BBDB-242E-96D8-B304A24B08D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD9A435-BBDB-242E-96D8-B304A24B08D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AD9A435-BBDB-242E-96D8-B304A24B08D6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE8A04BD-187F-2E29-11EE-9DDAB16B62A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE8A04BD-187F-2E29-11EE-9DDAB16B62A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE8A04BD-187F-2E29-11EE-9DDAB16B62A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE8A04BD-187F-2E29-11EE-9DDAB16B62A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{63822057-9227-EDF3-D1F2-F95E2B0944AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{63822057-9227-EDF3-D1F2-F95E2B0944AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63822057-9227-EDF3-D1F2-F95E2B0944AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-						GlobalSection(MonoDevelopProperties) = preSolution
+										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
