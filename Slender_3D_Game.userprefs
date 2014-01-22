@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AnimationScripts.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Pro Standard Assets\Water\Sources\FX-Water.shader">
     <Files>
-      <File FileName="Assets\AnimationScripts.js" Line="9" Column="33" />
+      <File FileName="Assets\Pro Standard Assets\Water\Sources\FX-Water.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
